@@ -5,6 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedabdalkreem&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedabdalkreem" /> </p>
 
+- 🔭 I’m currently studing **computer science** 
 - 🌱 I’m currently learning **Computer Vision**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AhmedAbdAlkreem](https://github.com/AhmedAbdAlkreem)
