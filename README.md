@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ahmed Abd Alkreem</h1>
 <h3 align="center">Still student but try learn more in Machine learning and Deep Learning.</h3>
 
+<img align = "right" alt = "coding" width "400" src = "https://usercontent.one/wp/davidvhughes.com/wp-content/uploads/2019/09/CFC_Drone_propfix_1000x1000_.gif?media=1680714133">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedabdalkreem&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedabdalkreem" /> </p>
 
 - 🌱 I’m currently learning **Computer Vision**
