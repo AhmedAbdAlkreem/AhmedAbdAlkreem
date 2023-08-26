@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ahmed Abd Alkreem</h1>
 <h3 align="center">Still student but try learn more in Machine learning and Deep Learning.</h3>
 
-<img align="right" alt = "coding" width = 400 src ="https://usercontent.one/wp/davidvhughes.com/wp-content/uploads/2019/09/CFC_Drone_propfix_1000x1000_.gif?media=1680714133">
+<img align="right" alt = "Coding" width = 400 src ="https://i.gifer.com/origin/48/48a410876980de87fc6e719fb746cf54_w200.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedabdalkreem&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedabdalkreem" /> </p>
 
-- 🔭 I’m currently studing **computer science** 
+
+- 🔭 I’m currently studing **Computer Science** 
 - 🌱 I’m currently learning **Computer Vision**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AhmedAbdAlkreem](https://github.com/AhmedAbdAlkreem)
@@ -30,3 +30,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedabdalkreem&show_icons=true&locale=en" alt="ahmedabdalkreem" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedabdalkreem&" alt="ahmedabdalkreem" /></p>
+
+
