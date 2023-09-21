@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences [https://github.com/AhmedAbdAlkreem/COVID-19](https://github.com/AhmedAbdAlkreem/COVID-19)
 
-- ⚡ Fact **If you want to be happy in your life, tie your life with goals not with people or things.**
+- ⚡ Fact **If you want to live happy life, tie it to a goal not to people or things.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
