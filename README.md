@@ -8,7 +8,7 @@
 - 🔭 I’m currently studing **Computer Science** 
 - 🌱 I’m currently learning **Computer Vision**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AhmedAbdAlkreem](https://github.com/AhmedAbdAlkreem)
+- 👨‍💻 All of my projects are available at [https://github.com/AhmedAbdAlkreem](https://github.com/AhmedAbdAlkreem?tab=repositories)
 
 - 📫 How to reach me **ahmedabdalkreem140@gmail.com**
 
