@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Abd Alkreem</h1>
-<h3 align="center">Still student but try learn more in Machine learning and Deep Learning.</h3>
+<h3 align="center">Still student but try to learn more in Machine learning and Deep Learning.</h3>
 
 <img align="right" alt = "Coding" width = 300 src ="https://thenextweb.com/wp-content/blogs.dir/1/files/2014/08/djigif.gif">
 
